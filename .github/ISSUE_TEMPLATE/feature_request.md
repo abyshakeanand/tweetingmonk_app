@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Request a new feature
+about: What more would you love us to add to TweetingMonk?
 title: ''
 labels: ''
 assignees: ''
